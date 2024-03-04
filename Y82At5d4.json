@@ -13,12 +13,12 @@
 			"leftColumn": "Yabestpal Joe\nMetroSaint\nNayir\nFyzika\nDoctor Jables\nFrater Lux Animae"
 		},
 		"Contributors": {
-			"leftColumn": "Tiny\nXytabich\nSieng\nAlias Sobriquet\nAlley Wurds\nGene Hart\nEquanimity\nGantzu\nAhiram\nFídi Sofós\nToto Chan",
+			"leftColumn": "Tiny\nXytabich\nSieng\n_alias\nAlley Wurds\nGene Hart\nEquanimity\nGantzu\nAhiram\nFídi Sofós\nToto Chan",
 			"rightColumn": "Ingurdiz\nAin\nRianolakas\nEntity\nXT0 Gamearcane\nSleep on Sunday\nSanttu Heikkinen\nNgolo Coyote\nAmateur Magus\nAlan"
 		},
 		"Library": {
 			"leftColumn": "Freshubik\nEsoterick\nNZICD\nAnonymous Kabbalist\nGantzu\nEquanimity\nKitKat",
-			"rightColumn": "TarotReaderFrog\nIngurdiz\nAlias Sobriquet\nSnowykins\nRianolakas\nNgolo Coyote"
+			"rightColumn": "TarotReaderFrog\nIngurdiz\n_alias\nSnowykins\nRianolakas\nNgolo Coyote"
 		}
 	},
 	"Calendar": {
@@ -61,7 +61,7 @@
 		"ktccgy7IvE": [
 			{"5JWDcMzqmK": "TarotReaderFrog"},
 			{"5JWDcMzqmK": "Xytabich"},
-			{"5JWDcMzqmK": "Alias Sobriquet"},
+			{"5JWDcMzqmK": "_alias"},
 			{"5JWDcMzqmK": "Ananda42"},
 			{"5JWDcMzqmK": "Equanimity_"},
 			{"5JWDcMzqmK": "Gantzu"},
@@ -150,7 +150,7 @@
 		"oa97e6rtvoba7": [
 			"TarotReaderFrog",
 			"Ahiram",
-			"Alias Sobriquet",
+			"_alias",
 			"Rianolakas",
 			"Gantzu",
 			"MetroSaint",
@@ -158,7 +158,7 @@
 		],
 		"p9a86sdfpn869": [
 			"TarotReaderFrog",
-			"Alias Sobriquet",
+			"_alias",
 			"MetroSaint"
 		]
 	}
