@@ -1,40 +1,34 @@
 {
-	"Settings":
-	{
+	"settings": {
 		"slidesAmount": 1,
 		"eventsSpecial": 1,
-		"eventsWeekly":  3,
+		"eventsWeekly": 3
 	},
-	"Calendar": {
-		"Weekly": 
-		[
-			{
+	"calendar": {
+		"weekly":
+		[{
 				"date": "Saturdays",
 				"time": "23:00 CET\n5:00PM EST",
 				"title": "Gathering for practitioners",
 				"description": "Discuss your past week with the VRM community, in terms of personal development, spiritual study/practice, and share relevant resources."
-			},
-			{
+			}, {
 				"date": "Wednesdays",
 				"time": "22:00 CET\n4:00PM EST",
 				"title": "Community hangout",
 				"description": "A casual hangout witn no set topic. Bring your own or come to say hello!"
-			},
-			{
+			}, {
 				"date": "Mondays",
 				"time": "20:00 CET\n2:00PM EST",
 				"title": "'Mindfulness of Breathing' Group Meditation",
 				"description": "Buddhist 'Mindfulness of Breathing' meditation in group setting. Practice and discuss together, or learn from an instructor!"
 			}
 		],
-		"Special": [
-			{
+		"special": [{
 				"date": "Sun. Mar 10th",
 				"time": "21:00 CET\n3:00PM EST",
 				"title": "Knowledge and Discernment in Spirituality",
 				"description": "Join Huparxes for a dry, dusty afternoon as we speak about some of the problems involved in examining information, and study some techniques that can help sincere seekers on their spiritual journeys."
-			},
-			{
+			}, {
 				"date": "Sun. Jan 14th",
 				"time": "21:00 CET\n3:00PM EST",
 				"title": "Agrippa's Third Book of Occult Philosophy, condensed",
@@ -42,93 +36,229 @@
 			}
 		]
 	},
-	"Users":
-	{
-		"TarotReaderFrog": 		["isFounder", "isLib"],
-		"_alias": 			["isStaff", "isLib"],
+	"users": {
+		"TarotReaderFrog": 
+		{
+			"tags": ["isFounder", "isLib"]
+		},
+
+		"_alias": 
+		{
+			"tags": ["isStaff", "isLib"]
+		},
 		
-		"CoffeeeVR": 			["isVol"],
-		"Rianolakas": 			["isMod", "isLib"],
+
+
+		"CoffeeeVR": 
+		{
+			"tags": ["isVol"]
+		},
+
+		"Rianolakas": 
+		{
+			"tags": ["isMod", "isLib"]
+		},
 		
-		"CallmeGoats": 			["isMod"],
-		"Lord_Sandal b246": 		["isMod"],
-		"Savage Cabbage 33a7": 		["isMod"],
-		"princess heaven": 		["isMod"],
-		"saintonprotest": 		["isMod"],
-		"GameArcane 824f": 		["isMod"],
+
+
+		"CallmeGoats": 
+		{
+			"tags": ["isMod"]
+		},
+
+		"Lord_Sandal b246": 
+		{
+			"tags": ["isMod"]
+		},
+
+		"Savage Cabbage 33a7": 
+		{
+			"tags": ["isMod"]
+		},
+
+		"princess heaven": 
+		{
+			"tags": ["isMod"]
+		},
+
+		"saintonprotest": 
+		{
+			"tags": ["isMod"]
+		},
+
+		"GameArcane 824f": 
+		{
+			"tags": ["isMod"]
+		},
 		
-		"Adaktyyli 6f66": 		["c3"],
-		"Ahiram": 			["c3", "isHost"],
-		"Equanimity_": 			["c3", "isLib"],
-		"Gantzu": 			["c3", "isHost", "isLib"],
-		"IngurdizTheThird 20ae": 	["c3", "isLib"],
-		"Xytabich": 			["c3"],
-		"Entity⁄⁄エンティティ": 		["c2"],
-		"Frater Sofus": 		["c2"],
-		"~SLEEP~": 			["c2"],
-		"Gene": 			["c1"],
-		"Heiliel Prince": 		["c1"],
-		"TOTO-chan": 			["c1", "isBooster"],
-		"tiny_fiend": 			["c1"],
-		"｜KitKat｜": 			["c1"],
+
+
+		"Adaktyyli 6f66": 
+		{
+			"contributor" : 3
+		},
+
+		"Ahiram": 
+		{
+			"tags": ["isHost"],
+			"contributor" : 3
+		},
+
+		"Equanimity_": 
+		{
+			"tags": ["isLib"],
+			"contributor" : 3
+		},
+
+		"Gantzu": 
+		{
+			"tags": ["isHost", "isLib"],
+			"contributor" : 3
+		},
+
+		"IngurdizTheThird 20ae": 
+		{
+			"tags": ["isLib"],
+			"contributor" : 3
+		},
+
+		"Xytabich": 
+		{
+			"contributor" : 3
+		},
+
+		"Entity⁄⁄エンティティ": 
+		{
+			"contributor" : 2
+		},
+
+		"Frater Sofus": 
+		{
+			"contributor" : 2
+		},
+
+		"~SLEEP~": 
+		{
+			"contributor" : 2
+		},
+
+		"Gene": 
+		{
+			"contributor" : 1
+		},
+
+		"Heiliel Prince": 
+		{
+			"contributor" : 1
+		},
+
+		"TOTO-chan": 
+		{
+			"tags": ["isBooster"],
+			"contributor" : 1
+		},
+
+		"tiny_fiend": 
+		{
+			"contributor" : 1
+		},
 		
-		"Fyzika": 			["s3"],
-		"MetroSaint": 			["s7", "isHost"],
-		"Nayir": 			["s6"],
-		"Yabestpal Joe": 		["s3", "isHost"],
-		"Radix": 			["s6"],
-		
-		"KOD6677": 			["isBooster"],
-		"Morift": 			["isBooster"],
-		"Friendly_Nick": 		["isBooster"],
-		"Arranun": 			["isBooster"],
-		
-		"A͏r͏c͏h͏o͏s͏": 			["isBan"],
-		"Brahmael": 			["isBan"],
-		"Cerberus Bindweed 0454": 	["isBan"],
-		"ChiefInfinity": 		["isBan"],
-		"D a t a": 			["isBan"],
-		"Deuce.Vamoose 9a63": 		["isBan"],
-		"Dizerta": 			["isBan"],
-		"EsotericStudent 5c7e": 	["isBan"],
-		"EsotericStudent": 		["isBan"],
-		"Ezekiel2and3": 		["isBan"],
-		"FPL-Nagato2": 			["isBan"],
-		"Fleas e31f": 			["isBan"],
-		"Fleas": 			["isBan"],
-		"Hermitage": 			["isBan"],
-		"Holy Preacher 260c": 		["isBan"],
-		"It's A Mystery": 		["isBan"],
-		"JoshuaVonNoctis 05cb": 	["isBan"],
-		"Neon Regnum": 			["isBan"],
-		"NightSeeker2277 6ab7": 	["isBan"],
-		"NightSeeker2277": 		["isBan"],
-		"NotYurrrBaby": 		["isBan"],
-		"NotYurrrBabyx": 		["isBan"],
-		"Nyala": 			["isBan"],
-		"Pauwel 6f9f": 			["isBan"],
-		"Poemandres 8951": 		["isBan"],
-		"PureSpace": 			["isBan"],
-		"Refluence": 			["isBan"],
-		"Rezna Qay": 			["isBan"],
-		"The Dog of Wisdom 260c": 	["isBan"],
-		"TheVerp": 			["isBan"],
-		"The_Archivist_R＋C c74e": 	["isBan"],
-		"Tolskall": 			["isBan"],
-		"WolfOfAntimony": 		["isBan"],
-		"Zeelu": 			["isBan"],
-		"darkflame33": 			["isBan"],
-		"deathdog": 			["isBan"],
-		"forkieus": 			["isBan"],			
-		"forkikos": 			["isBan"],
-		"forkikus": 			["isBan"],
-		"mang0cake": 			["isBan"],
-		"plape": 			["isBan"],
-		"soweli_kelo": 			["isBan"],
-		"stereo": 			["isBan"],
-		"~Az_": 			["isBan"],
-		"~Cypher~": 			["isBan"],
-		"«Draco-Borg»": 		["isBan"],
-		"․˸˸ BG - MaNiAC ˸˸․": 		["isBan"]
+
+
+		"Fyzika": 
+		{
+			"supporter" : 3
+		},
+
+		"MetroSaint": 
+		{
+			"tags": ["isHost"],
+			"supporter" : 7
+		},
+
+		"Nayir": 
+		{
+			"supporter" : 6
+		},
+
+		"Yabestpal Joe": 
+		{
+			"tags": ["isHost"],
+			"supporter" : 3
+		},
+
+		"Radix": 
+		{
+			"supporter" : 6
+		},
+
+
+		"KOD6677": 
+		{
+			"tags": ["isBooster"]
+		},
+
+		"Morift": 
+		{
+			"tags": ["isBooster"]
+		},
+
+		"Friendly_Nick": 
+		{
+			"tags": ["isBooster"]
+		},
+
+		"Arranun": 
+		{
+			"tags": ["isBooster"]
+		},
+
+		"A͏r͏c͏h͏o͏s͏": { "tags": ["isBan"] },
+		"Brahmael": { "tags": ["isBan"] },
+		"Cerberus Bindweed 0454": { "tags": ["isBan"] },
+		"ChiefInfinity": { "tags": ["isBan"] },
+		"D a t a": { "tags": ["isBan"] },
+		"Deuce.Vamoose 9a63": { "tags": ["isBan"] },
+		"Dizerta": { "tags": ["isBan"] },
+		"EsotericStudent 5c7e": { "tags": ["isBan"] },
+		"EsotericStudent": { "tags": ["isBan"] },
+		"Ezekiel2and3": { "tags": ["isBan"] },
+		"FPL-Nagato2": { "tags": ["isBan"] },
+		"Fleas e31f": { "tags": ["isBan"] },
+		"Fleas": { "tags": ["isBan"] },
+		"Hermitage": { "tags": ["isBan"] },
+		"Holy Preacher 260c": { "tags": ["isBan"] },
+		"It's A Mystery": { "tags": ["isBan"] },
+		"JoshuaVonNoctis 05cb": { "tags": ["isBan"] },
+		"Neon Regnum": { "tags": ["isBan"] },
+		"NightSeeker2277 6ab7": { "tags": ["isBan"] },
+		"NightSeeker2277": { "tags": ["isBan"] },
+		"NotYurrrBaby": { "tags": ["isBan"] },
+		"NotYurrrBabyx": { "tags": ["isBan"] },
+		"Nyala": { "tags": ["isBan"] },
+		"Pauwel 6f9f": { "tags": ["isBan"] },
+		"Poemandres 8951": { "tags": ["isBan"] },
+		"PureSpace": { "tags": ["isBan"] },
+		"Refluence": { "tags": ["isBan"] },	
+		"Rezna Qay": { "tags": ["isBan"] },
+		"The Dog of Wisdom 260c": { "tags": ["isBan"] },
+		"TheVerp": { "tags": ["isBan"] },
+		"The_Archivist_R＋C c74e": { "tags": ["isBan"] },
+		"Tolskall": { "tags": ["isBan"] },
+		"WolfOfAntimony": { "tags": ["isBan"] },
+		"Zeelu": { "tags": ["isBan"] },
+		"darkflame33": { "tags": ["isBan"] },
+		"deathdog": { "tags": ["isBan"] },
+		"forkieus": { "tags": ["isBan"] },
+		"forkikos": { "tags": ["isBan"] },
+		"forkikus": { "tags": ["isBan"] },
+		"mang0cake": { "tags": ["isBan"] },
+		"plape": { "tags": ["isBan"] },
+		"soweli_kelo": { "tags": ["isBan"] },
+		"stereo": { "tags": ["isBan"] },
+		"~Az_": { "tags": ["isBan"] },
+		"~Cypher~": { "tags": ["isBan"] },
+		"«Draco-Borg»": { "tags": ["isBan"] },
+		"․˸˸ BG - MaNiAC ˸˸․": { "tags": ["isBan"] },
 	}
 }
