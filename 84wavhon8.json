@@ -37,6 +37,11 @@
 		]
 	},
 	"users": {
+		"TestUser123": 
+		{
+			"tags": ["isFounder", "isLib"]
+		},
+		
 		"TarotReaderFrog": 
 		{
 			"tags": ["isFounder", "isLib"]
