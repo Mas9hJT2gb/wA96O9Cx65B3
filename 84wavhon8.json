@@ -44,7 +44,7 @@
 		
 		"TarotReaderFrog": 
 		{
-			"tags": ["isFounder", "isLib"]
+			"tags": ["isFounder", "isLib", "isSpecial"]
 		},
 
 		"_alias": 
