@@ -1,7 +1,7 @@
 {
 	"settings": {
 		"slidesAmount": 1,
-		"eventsSpecial": 1,
+		"eventsSpecial": 0,
 		"eventsWeekly": 3
 	},
 	"calendar": {
