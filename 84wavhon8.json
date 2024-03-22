@@ -6,7 +6,8 @@
 	},
 	"calendar": {
 		"weekly":
-		[{
+		[
+			{
 				"date": "Saturdays",
 				"time": "23:00 CET\n5:00PM EST",
 				"title": "Gathering for practitioners",
@@ -23,11 +24,17 @@
 				"description": "Buddhist 'Mindfulness of Breathing' meditation in group setting. Practice and discuss together, or learn from an instructor!"
 			}
 		],
-		"special": [{
+		"special": [
+			{
 				"date": "Sun. Mar 10th",
 				"time": "21:00 CET\n3:00PM EST",
 				"title": "Knowledge and Discernment in Spirituality",
 				"description": "Join Huparxes for a dry, dusty afternoon as we speak about some of the problems involved in examining information, and study some techniques that can help sincere seekers on their spiritual journeys."
+			}, {
+				"date": "Sun. Jan 14th",
+				"time": "21:00 CET\n3:00PM EST",
+				"title": "Agrippa's Third Book of Occult Philosophy, condensed",
+				"description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
 			}, {
 				"date": "Sun. Jan 14th",
 				"time": "21:00 CET\n3:00PM EST",
