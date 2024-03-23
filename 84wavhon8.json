@@ -282,14 +282,14 @@
 		"$NA$005": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 7,
+			"supporter" : 6,
 			"displayName" : "Frater Lux Animae"
 		},
 
 		"MetroSaint": 
 		{
 			"tags": ["isHost", "isDonator"],
-			"supporter" : 7
+			"supporter" : 6
 		},
 
 		"Nayir": 
