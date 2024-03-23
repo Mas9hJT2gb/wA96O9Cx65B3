@@ -9,8 +9,23 @@
 		"slidesAmount": 1,
 		"eventsSpecial": 0,
 		"eventsWeekly": 3,
-		"tiersSupport": ["Alms Giver", "YouTube supporter", "VR supporter", "Event supporter", "VRM Student", "Philantropist", "Pillar of VRM"],
-		"tiersContributor": ["Tier 1", "Tier 2", "Tier 3"]
+		"userlessName": "$NA$",
+		"tiersSupport": 
+		[
+			"Alms Giver",
+			"YouTube supporter",
+			"VR supporter",
+			"Event supporter",
+			"VRM Student",
+			"Philantropist",
+			"Pillar of VRM"
+		],
+		"tiersContributor": 
+		[
+			"Tier 1", 
+			"Tier 2", 
+			"Tier 3"
+		]
 	},
 	"calendar": {
 		"weekly":
@@ -52,11 +67,7 @@
 		]
 	},
 	"users": {
-		"TestUser123": 
-		{
-			"tags": ["isFounder", "isLib"]
-		},
-		
+	
 		"TarotReaderFrog": 
 		{
 			"tags": ["isFounder", "isLib", "isSpecial"]
@@ -108,10 +119,16 @@
 
 		"GameArcane 824f": 
 		{
-			"tags": ["isMod"]
+			"tags": ["isMod"],
+			"displayName" : "XT0 Gamearcane"
 		},
 		
 
+
+		"Fídi Sofós ": 
+		{
+			"contributor" : 2
+		},
 
 		"Adaktyyli 6f66": 
 		{
@@ -121,7 +138,7 @@
 		"Ahiram": 
 		{
 			"tags": ["isHost"],
-			"contributor" : 3
+			"contributor" : 2
 		},
 
 		"Equanimity_": 
@@ -147,9 +164,28 @@
 			"contributor" : 3
 		},
 
+		"niccolaggi": 
+		{
+			"contributor" : 3,
+			"displayName" : "Santtu Heikkinen"
+		},
+
+		"AmateurMagus": 
+		{
+			"contributor" : 2,
+			"displayName" : "Amateur Magus"
+		},
+
+		"BigAfrica f10b": 
+		{
+			"contributor" : 1,
+			"displayName" : "Ngolo Coyote"
+		},
+
 		"Entity⁄⁄エンティティ": 
 		{
-			"contributor" : 2
+			"contributor" : 2,
+			"displayName" : "Entity"
 		},
 
 		"Frater Sofus": 
@@ -159,17 +195,20 @@
 
 		"~SLEEP~": 
 		{
-			"contributor" : 2
+			"contributor" : 2,
+			"displayName" : "Sleep on Sunday"
 		},
 
 		"Gene": 
 		{
-			"contributor" : 1
+			"contributor" : 1,
+			"displayName": "Gene Hart"
 		},
 
 		"Heiliel Prince": 
 		{
-			"contributor" : 1
+			"contributor" : 1,
+			"displayName" : "Sieng"
 		},
 
 		"TOTO-chan": 
@@ -180,7 +219,56 @@
 
 		"tiny_fiend": 
 		{
-			"contributor" : 1
+			"contributor" : 1,
+			"displayName" : "Tiny"
+		},
+
+		"Bubbleof": 
+		{
+			"contributor" : 3,
+			"displayName" : "Alley Wurds"
+		},
+
+		"terrycosmo": 
+		{
+			"contributor" : 3,
+			"displayName" : "Alan"
+		},
+
+		"$NA$": 
+		{
+			"contributor" : 1,
+			"displayName" : "Ain"
+		},
+		
+
+		"$NA$": 
+		{
+			"tags": ["isLib"],
+			"displayName" : "Anonymous Kabbalist "
+		},
+
+		"$NA$": 
+		{
+			"tags": ["isLib"],
+			"displayName" : "Esoterick"
+		},
+
+		"$NA$": 
+		{
+			"tags": ["isLib"],
+			"displayName" : "Freshubik"
+		},
+		
+		"Snowykins": 
+		{
+			"tags": ["isLib"]
+		},
+		
+		"$NA$": 
+		{
+			"tags": ["isLib"],
+			"displayName" : "NZICD"
 		},
 		
 
@@ -189,6 +277,13 @@
 		{
 			"tags": ["isDonator"],
 			"supporter" : 3
+		},
+
+		"$NA$": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 7
+			"displayName" : "Frater Lux Animae"
 		},
 
 		"MetroSaint": 
@@ -200,7 +295,7 @@
 		"Nayir": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 6
+			"supporter" : 5
 		},
 
 		"Yabestpal Joe": 
@@ -209,15 +304,16 @@
 			"supporter" : 3
 		},
 
-		"Radix": 
+		"RadixJackal": 
 		{
-			"supporter" : 6
+			"supporter" : 5,
+			"displayName": "Radix"
 		},
 
 		"Doctor_Jables": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 3
+			"supporter" : 5
 		},
 
 
@@ -316,7 +412,7 @@
 			"tags": ["isDonator"]
 		},
 		
-		"Artemisapollo": 
+		"artemisapollo": 
 		{
 			"tags": ["isDonator"]
 		},
