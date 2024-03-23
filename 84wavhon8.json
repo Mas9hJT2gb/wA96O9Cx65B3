@@ -8,7 +8,9 @@
 		"tieredSupporters": true,
 		"slidesAmount": 1,
 		"eventsSpecial": 0,
-		"eventsWeekly": 3
+		"eventsWeekly": 3,
+		"tiersSupport": ["Alms Giver", "YouTube supporter", "VR supporter", "Event supporter", "VRM Student", "Philantropist", "Pillar of VRM"],
+		"tiersContributor": ["Tier 1", "Tier 2", "Tier 3"]
 	},
 	"calendar": {
 		"weekly":
