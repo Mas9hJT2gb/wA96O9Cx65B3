@@ -1,5 +1,11 @@
 {
 	"settings": {
+		"plaqueLibraryColumns": 2,
+		"plaqueDonatorsColumns": 2,
+		"plaqueContributorColums": 2,
+		"plaqueSupporterColumns": 1,
+		"tieredContributors": false,
+		"tieredSupporters": true,
 		"slidesAmount": 1,
 		"eventsSpecial": 0,
 		"eventsWeekly": 3
