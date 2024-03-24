@@ -87,7 +87,8 @@
 
 		"Rianolakas": 
 		{
-			"tags": ["isMod", "isLib", "isDonator"]
+			"tags": ["isMod", "isLib", "isDonator"],
+			"displayName": "Rianen"
 		},
 		
 
