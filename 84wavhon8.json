@@ -3,7 +3,7 @@
 		"plaqueLibraryColumns": 2,
 		"plaqueDonatorsColumns": 2,
 		"plaqueContributorColums": 2,
-		"plaqueSupporterColumns": 1,
+		"plaqueSupporterColumns": 2,
 		"tieredContributors": false,
 		"tieredSupporters": true,
 		"slidesAmount": 1,
