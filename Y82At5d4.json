@@ -2,7 +2,7 @@
 	"Settings": {
 		"slidesAmount": 7,
 		"weeklyEventAmount": 4,
-		"specialEventAmount": 0
+		"specialEventAmount": 1
 	},
 	"Plaques": {
 		"Donators": {
@@ -50,10 +50,10 @@
 		],
 		"Special": [
 			{
-				"date": "Sun. Mar 10th",
+				"date": "Sun. Jan 26th",
 				"time": "21:00 CET\n3:00PM EST",
 				"title": "Knowledge and Discernment in Spirituality",
-				"description": "Join Huparxes for a dry, dusty afternoon as we speak about some of the problems involved in examining information, and study some techniques that can help sincere seekers on their spiritual journeys."
+				"description": "An exploration into the enigmatic Enochian language, and the important yet unexplored Liber Logaeth."
 			},
 			{
 				"date": "Sun. Jan 14th",
