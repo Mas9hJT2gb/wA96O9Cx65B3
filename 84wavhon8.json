@@ -140,7 +140,7 @@
 			"contributor" : 3
 		},
 
-		"krzeszny": 
+		"Krzeszny": 
 		{
 			"supporter" : 0
 		},
@@ -310,12 +310,8 @@
 		"Yabestpal Joe": 
 		{
 			"tags": ["isHost", "isDonator"],
-			"supporter" : 2
-		},
-
-		"RadixJackal": 
-		{
-			"displayName": "Radix"
+			"supporter" : 2,
+			"contributor" 1,
 		},
 
 		"Doctor_Jables": 
@@ -324,13 +320,12 @@
 			"supporter" : 3
 		},
 
-
 		"KOD6677": 
 		{
 			"tags": ["isBooster"]
 		},
 
-		"Morift": 
+		"Nahsler": 
 		{
 			"tags": ["isBooster"]
 		},
@@ -382,7 +377,7 @@
 		
 		"Schizodynamic": 
 		{
-			"tags": ["isDonator"]
+			"tags": ["isDonator", "isBooster"]
 		},
 		
 		"Panag": 
