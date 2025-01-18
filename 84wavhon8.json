@@ -122,70 +122,70 @@
 		{
 			"tags": ["isDonator"],
 			"displayName" : "Frater Lux Animae",
-			"supporter" : 4
+			"supporter" : 5
 		},
 
 		"MetroSaint": 
 		{
 			"tags": ["isHost", "isDonator"],
-			"supporter" : 4
+			"supporter" : 5
 		},
 
 		"Doctor_Jables": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 3
+			"supporter" : 4
 		},
 
 		"Nayir": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 3
+			"supporter" : 4
 		},
 
 		"Yabestpal Joe": 
 		{
 			"tags": ["isHost", "isDonator"],
 			"supporter" : 2,
-			"contributor" : 1
+			"contributor" : 2
 		},
 		
 		"Feronzie": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 1
+			"supporter" : 2
 		},
 
 		"AphoticAbility": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 1
+			"supporter" : 2
 		},
 
 		"Fyzika": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 1
+			"supporter" : 2
 		},		
 		
 		"Gantzu": 
 		{
 			"tags": ["isDonator", "isHost", "isLib"],
 			"contributor" : 3,
-			"supporter" : 1
+			"supporter" : 2
 		},
 		
 		"TOTO-chan": 
 		{
 			"tags": ["isBooster", "isDonator"],
 			"contributor" : 1,
-			"supporter" : 0
+			"supporter" : 1
 		},
 
 		"Krzeszny": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 0
+			"supporter" : 1
 		},
 		
 		
