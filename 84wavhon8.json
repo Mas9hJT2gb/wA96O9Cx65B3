@@ -13,12 +13,10 @@
 		"tiersSupport": 
 		[
 			"Alms Giver",
-			"YouTube supporter",
 			"VR supporter",
-			"Event supporter",
-			"VRM Student",
-			"Philantropist",
-			"Pillar of VRM"
+			"YouTube supporter",
+			"VRM Enthusiast",
+			"Filantropist"
 		],
 		"tiersContributor": 
 		[
@@ -122,8 +120,7 @@
 		{
 			"tags": ["isMod"],
 			"displayName" : "XT0 Gamearcane"
-		},
-		
+		},	
 
 
 		"Fídi Sofós ": 
@@ -143,10 +140,16 @@
 			"contributor" : 3
 		},
 
+		"krzeszny": 
+		{
+			"supporter" : 0
+		},
+
 		"Gantzu": 
 		{
 			"tags": ["isHost", "isLib"],
-			"contributor" : 3
+			"contributor" : 3,
+			"supporter" : 1
 		},
 
 		"IngurdizTheThird 20ae": 
@@ -210,7 +213,8 @@
 		"TOTO-chan": 
 		{
 			"tags": ["isBooster", "isDonator"],
-			"contributor" : 1
+			"contributor" : 1,
+			"supporter" : 0
 		},
 
 		"tiny_fiend": 
@@ -266,50 +270,58 @@
 			"tags": ["isLib"],
 			"displayName" : "NZICD"
 		},
-		
 
+		"Feronzie": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 1
+		},
+
+		"AphoticAbility": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 1
+		},
 
 		"Fyzika": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 3
+			"supporter" : 1
 		},
 
-		"$NA$005": 
+		"Lux Animae": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 6,
 			"displayName" : "Frater Lux Animae"
 		},
 
 		"MetroSaint": 
 		{
 			"tags": ["isHost", "isDonator"],
-			"supporter" : 6
+			"supporter" : 4
 		},
 
 		"Nayir": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 5
+			"supporter" : 3
 		},
 
 		"Yabestpal Joe": 
 		{
 			"tags": ["isHost", "isDonator"],
-			"supporter" : 3
+			"supporter" : 2
 		},
 
 		"RadixJackal": 
 		{
-			"supporter" : 5,
 			"displayName": "Radix"
 		},
 
 		"Doctor_Jables": 
 		{
 			"tags": ["isDonator"],
-			"supporter" : 5
+			"supporter" : 3
 		},
 
 
