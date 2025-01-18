@@ -13,12 +13,10 @@
 		"tiersSupport": 
 		[
 			"Alms Giver",
-			"YouTube supporter",
 			"VR supporter",
-			"Event supporter",
-			"VRM Student",
-			"Philantropist",
-			"Pillar of VRM"
+			"YouTube supporter",
+			"VRM Enthusiast",
+			"Filantropist"
 		],
 		"tiersContributor": 
 		[
@@ -78,7 +76,7 @@
 			"tags": ["isStaff", "isLib"]
 		},
 		
-
+		
 
 		"CoffeeeVR": 
 		{
@@ -89,18 +87,6 @@
 		{
 			"tags": ["isMod", "isLib", "isDonator"],
 			"displayName": "Riana"
-		},
-		
-
-
-		"CallmeGoats": 
-		{
-			"tags": ["isMod"]
-		},
-
-		"Lord_Sandal b246": 
-		{
-			"tags": ["isMod"]
 		},
 
 		"Savage Cabbage 33a7": 
@@ -113,17 +99,11 @@
 			"tags": ["isMod"]
 		},
 
-		"saintonprotest": 
-		{
-			"tags": ["isMod"]
-		},
-
 		"GameArcane 824f": 
 		{
 			"tags": ["isMod"],
 			"displayName" : "XT0 Gamearcane"
-		},
-		
+		},	
 
 
 		"Fídi Sofós ": 
@@ -137,26 +117,83 @@
 			"contributor" : 2
 		},
 
-		"Equanimity_": 
+
+		"Lux Animae": 
 		{
-			"tags": ["isLib"],
-			"contributor" : 3
+			"tags": ["isDonator"],
+			"displayName" : "Frater Lux Animae",
+			"supporter" : 4
 		},
 
+		"MetroSaint": 
+		{
+			"tags": ["isHost", "isDonator"],
+			"supporter" : 4
+		},
+
+		"Doctor_Jables": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 3
+		},
+
+		"Nayir": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 3
+		},
+
+		"Yabestpal Joe": 
+		{
+			"tags": ["isHost", "isDonator"],
+			"supporter" : 2,
+			"contributor" : 1
+		},
+		
+		"Feronzie": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 1
+		},
+
+		"AphoticAbility": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 1
+		},
+
+		"Fyzika": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 1
+		},		
+		
 		"Gantzu": 
 		{
-			"tags": ["isHost", "isLib"],
-			"contributor" : 3
+			"tags": ["isDonator", "isHost", "isLib"],
+			"contributor" : 3,
+			"supporter" : 1
+		},
+		
+		"TOTO-chan": 
+		{
+			"tags": ["isBooster", "isDonator"],
+			"contributor" : 1,
+			"supporter" : 0
 		},
 
+		"Krzeszny": 
+		{
+			"tags": ["isDonator"],
+			"supporter" : 0
+		},
+		
+		
+		"Xytabich": { "contributor" : 3 },
+ 		"Frater Sofus": { "contributor" : 2 },		
 		"IngurdizTheThird 20ae": 
 		{
 			"tags": ["isLib", "isDonator"],
-			"contributor" : 3
-		},
-
-		"Xytabich": 
-		{
 			"contributor" : 3
 		},
 
@@ -184,11 +221,6 @@
 			"displayName" : "Entity"
 		},
 
-		"Frater Sofus": 
-		{
-			"contributor" : 2
-		},
-
 		"~SLEEP~": 
 		{
 			"contributor" : 2,
@@ -206,13 +238,7 @@
 			"contributor" : 1,
 			"displayName" : "Sieng"
 		},
-
-		"TOTO-chan": 
-		{
-			"tags": ["isBooster", "isDonator"],
-			"contributor" : 1
-		},
-
+		
 		"tiny_fiend": 
 		{
 			"contributor" : 1,
@@ -237,227 +263,48 @@
 			"displayName" : "Ain"
 		},
 		
-
-		"$NA$001": 
+		"Equanimity_": 
 		{
 			"tags": ["isLib"],
-			"displayName" : "Anonymous Kabbalist "
+			"contributor" : 3
 		},
+		
+		"Snowykins": { "tags": ["isLib"] },		
+		"$NA$001": { "tags": ["isLib"], "displayName" : "Anonymous Kabbalist " },
+		"$NA$002": { "tags": ["isLib"], "displayName" : "Esoterick" },
+		"$NA$003": { "tags": ["isLib"], "displayName" : "Freshubik" },
+		"$NA$004": { "tags": ["isLib"], "displayName" : "NZICD" },
 
-		"$NA$002": 
-		{
-			"tags": ["isLib"],
-			"displayName" : "Esoterick"
-		},
-
-		"$NA$003": 
-		{
-			"tags": ["isLib"],
-			"displayName" : "Freshubik"
-		},
+		"KOD6677": { "tags": ["isBooster"] },
+		"Nahsler": { "tags": ["isBooster"] },
+		"Friendly_Nick": { "tags": ["isBooster"] },
+		"Arranun": { "tags": ["isBooster"] },		
 		
-		"Snowykins": 
-		{
-			"tags": ["isLib"]
-		},
-		
-		"$NA$004": 
-		{
-			"tags": ["isLib"],
-			"displayName" : "NZICD"
-		},
-		
-
-
-		"Fyzika": 
-		{
-			"tags": ["isDonator"],
-			"supporter" : 3
-		},
-
-		"$NA$005": 
-		{
-			"tags": ["isDonator"],
-			"supporter" : 6,
-			"displayName" : "Frater Lux Animae"
-		},
-
-		"MetroSaint": 
-		{
-			"tags": ["isHost", "isDonator"],
-			"supporter" : 6
-		},
-
-		"Nayir": 
-		{
-			"tags": ["isDonator"],
-			"supporter" : 5
-		},
-
-		"Yabestpal Joe": 
-		{
-			"tags": ["isHost", "isDonator"],
-			"supporter" : 3
-		},
-
-		"RadixJackal": 
-		{
-			"supporter" : 5,
-			"displayName": "Radix"
-		},
-
-		"Doctor_Jables": 
-		{
-			"tags": ["isDonator"],
-			"supporter" : 5
-		},
-
-
-		"KOD6677": 
-		{
-			"tags": ["isBooster"]
-		},
-
-		"Morift": 
-		{
-			"tags": ["isBooster"]
-		},
-
-		"Friendly_Nick": 
-		{
-			"tags": ["isBooster", "isDonator"]
-		},
-
-		"Arranun": 
-		{
-			"tags": ["isBooster"]
-		},
-		
-		"Gaothaire": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Bubblegumzeta": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Malka": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Zsolt": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Piinkpoe": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Jojo": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Celestial Vamp": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Schizodynamic": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Panag": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Xalgorithm": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Semretta": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Nancemelecio": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"PsychoSorcerer": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Randy Shearer Jr": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Legion of Frost": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"artemisapollo": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Samothes": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Enna": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Mamamad": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"NotSatanGuys": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Scienceee": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Bob Cat": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Karan": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Arlo": 
-		{
-			"tags": ["isDonator"]
-		},
-		
-		"Technomancer113": 
-		{
-			"tags": ["isDonator"]
-		},
-		
+		"Gaothaire": { "tags": ["isDonator"] },
+		"Bubblegumzeta": { "tags": ["isDonator"] },
+		"Malka": { "tags": ["isDonator"] },
+		"Zsolt": { "tags": ["isDonator"] },
+		"Piinkpoe": { "tags": ["isDonator"] },
+		"Jojo": { "tags": ["isDonator"] },
+		"Celestial Vamp": { "tags": ["isDonator"] },
+		"Schizodynamic": { "tags": ["isDonator", "isBooster"] },		
+		"Panag": { "tags": ["isDonator"] },		
+		"Xalgorithm": { "tags": ["isDonator"] },		
+		"Semretta": { "tags": ["isDonator"] },		
+		"Nancemelecio": { "tags": ["isDonator"] },		
+		"PsychoSorcerer": { "tags": ["isDonator"] },		
+		"PraemonChariot": { "tags": ["isDonator"] },		
+		"Legion of Frost": { "tags": ["isDonator"] },		
+		"artemisapollo": { "tags": ["isDonator"] },		
+		"Samothes": { "tags": ["isDonator"] },		
+		"Enna": { "tags": ["isDonator"] },		
+		"Mamamad": { "tags": ["isDonator"] },		
+		"NotSatanGuys": { "tags": ["isDonator"] },		
+		"Scienceee": { "tags": ["isDonator"] },		
+		"Bob Cat": { "tags": ["isDonator"] },		
+		"Karan": { "tags": ["isDonator"] },		
+		"Arlo": { "tags": ["isDonator"] },		
+		"Technomancer113": { "tags": ["isDonator"] },
 
 		"A͏r͏c͏h͏o͏s͏": { "tags": ["isBan"] },
 		"Brahmael": { "tags": ["isBan"] },
