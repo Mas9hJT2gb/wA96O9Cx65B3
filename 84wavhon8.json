@@ -396,9 +396,9 @@
         "Lux Animae": {
             "displayName": "Frater Lux Animae",
             "tags": [
-                "isDonator"
-            ],
-            "supporter": 5
+                "isDonator",
+                "isBan"
+            ]
         },
         "MetroSaint": {
             "tags": [
