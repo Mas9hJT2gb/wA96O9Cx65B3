@@ -69,14 +69,15 @@
     "users": {
         "TarotReaderFrog": {
             "tags": [
-                "isLib",
-                "isSpecial"
+                "isFounder",
+                "isSpecial",
+                "isLib"
             ]
         },
         "_alias": {
             "tags": [
-                "isLib",
-                "isStaff"
+                "isStaff",
+                "isLib"
             ]
         },
         "CoffeeeVR": {
@@ -88,9 +89,9 @@
         "Rianolakas": {
             "displayName": "Riana",
             "tags": [
+                "isMod",
                 "isLib",
-                "isDonator",
-                "isMod"
+                "isDonator"
             ]
         },
         "Savage Cabbage 33a7": {
@@ -108,164 +109,6 @@
             "tags": [
                 "isMod"
             ]
-        },
-        "F\u00eddi Sof\u00f3s": {
-            "contributor": 2
-        },
-        "Ahiram": {
-            "tags": [
-                "isHost"
-            ],
-            "contributor": 2
-        },
-        "Azule_Aleaus": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 4
-        },
-        "Lux Animae": {
-            "displayName": "Frater Lux Animae",
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 5
-        },
-        "MetroSaint": {
-            "tags": [
-                "isDonator",
-                "isHost"
-            ],
-            "supporter": 5
-        },
-        "Doctor_Jables": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 4
-        },
-        "Nayir": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 4
-        },
-        "Yabestpal Joe": {
-            "tags": [
-                "isDonator",
-                "isHost"
-            ],
-            "contributor": 2,
-            "supporter": 2
-        },
-        "Feronzie": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 2
-        },
-        "AphoticAbility": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 2
-        },
-        "Fyzika": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 2
-        },
-        "Gantzu": {
-            "tags": [
-                "isLib",
-                "isDonator",
-                "isHost"
-            ],
-            "contributor": 3,
-            "supporter": 2
-        },
-        "TOTO-chan": {
-            "tags": [
-                "isDonator",
-                "isBooster"
-            ],
-            "contributor": 1,
-            "supporter": 1
-        },
-        "Krzeszny": {
-            "tags": [
-                "isDonator"
-            ],
-            "supporter": 1
-        },
-        "tiny_fiend": {
-            "displayName": "Tiny",
-            "tags": [
-                "isLib",
-                "isSpecial",
-                "isDonator"
-            ],
-            "contributor": 3
-        },
-        "Xytabich": {
-            "contributor": 3
-        },
-        "Frater Sofus": {
-            "contributor": 2
-        },
-        "IngurdizTheThird 20ae": {
-            "tags": [
-                "isLib",
-                "isDonator"
-            ],
-            "contributor": 3
-        },
-        "niccolaggi": {
-            "displayName": "Santtu Heikkinen",
-            "contributor": 3
-        },
-        "AmateurMagus": {
-            "displayName": "Amateur Magus",
-            "contributor": 2
-        },
-        "BigAfrica f10b": {
-            "displayName": "Ngolo Coyote",
-            "contributor": 1
-        },
-        "Entity\u2044\u2044\u30a8\u30f3\u30c6\u30a3\u30c6\u30a3": {
-            "displayName": "Entity",
-            "contributor": 2
-        },
-        "~SLEEP~": {
-            "displayName": "Sleep on Sunday",
-            "contributor": 2
-        },
-        "Gene": {
-            "displayName": "Gene Hart",
-            "contributor": 1
-        },
-        "Heiliel Prince": {
-            "displayName": "Sieng",
-            "contributor": 1
-        },
-        "Bubbleof": {
-            "displayName": "Alley Wurds",
-            "contributor": 3
-        },
-        "terrycosmo": {
-            "displayName": "Alan",
-            "contributor": 3
-        },
-        "$NA$000": {
-            "displayName": "Ain",
-            "contributor": 1
-        },
-        "Equanimity_": {
-            "tags": [
-                "isLib"
-            ],
-            "contributor": 3
         },
         "Snowykins": {
             "tags": [
@@ -353,8 +196,8 @@
         },
         "Schizodynamic": {
             "tags": [
-                "isDonator",
-                "isBooster"
+                "isBooster",
+                "isDonator"
             ]
         },
         "Panag": {
@@ -441,6 +284,164 @@
             "tags": [
                 "isDonator"
             ]
+        },
+        "F\u00eddi Sof\u00f3s": {
+            "contributor": 2
+        },
+        "Ahiram": {
+            "tags": [
+                "isHost"
+            ],
+            "contributor": 2
+        },
+        "Yabestpal Joe": {
+            "tags": [
+                "isHost",
+                "isDonator"
+            ],
+            "contributor": 2,
+            "supporter": 2
+        },
+        "Gantzu": {
+            "tags": [
+                "isHost",
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3,
+            "supporter": 2
+        },
+        "TOTO-chan": {
+            "tags": [
+                "isBooster",
+                "isDonator"
+            ],
+            "contributor": 1,
+            "supporter": 1
+        },
+        "tiny_fiend": {
+            "displayName": "Tiny",
+            "tags": [
+                "isSpecial",
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3
+        },
+        "Xytabich": {
+            "contributor": 3
+        },
+        "Frater Sofus": {
+            "contributor": 2
+        },
+        "IngurdizTheThird 20ae": {
+            "tags": [
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3
+        },
+        "niccolaggi": {
+            "displayName": "Santtu Heikkinen",
+            "contributor": 3
+        },
+        "AmateurMagus": {
+            "displayName": "Amateur Magus",
+            "contributor": 2
+        },
+        "BigAfrica f10b": {
+            "displayName": "Ngolo Coyote",
+            "contributor": 1
+        },
+        "Entity\u2044\u2044\u30a8\u30f3\u30c6\u30a3\u30c6\u30a3": {
+            "displayName": "Entity",
+            "contributor": 2
+        },
+        "~SLEEP~": {
+            "displayName": "Sleep on Sunday",
+            "contributor": 2
+        },
+        "Gene": {
+            "displayName": "Gene Hart",
+            "contributor": 1
+        },
+        "Heiliel Prince": {
+            "displayName": "Sieng",
+            "contributor": 1
+        },
+        "Bubbleof": {
+            "displayName": "Alley Wurds",
+            "contributor": 3
+        },
+        "terrycosmo": {
+            "displayName": "Alan",
+            "contributor": 3
+        },
+        "$NA$000": {
+            "displayName": "Ain",
+            "contributor": 1
+        },
+        "Equanimity_": {
+            "tags": [
+                "isLib"
+            ],
+            "contributor": 3
+        },
+        "Azule_Aleaus": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 4
+        },
+        "Lux Animae": {
+            "displayName": "Frater Lux Animae",
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 5
+        },
+        "MetroSaint": {
+            "tags": [
+                "isHost",
+                "isDonator"
+            ],
+            "supporter": 5
+        },
+        "Doctor_Jables": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 4
+        },
+        "Nayir": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 4
+        },
+        "Feronzie": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
+        "AphoticAbility": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
+        "Fyzika": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
+        "Krzeszny": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 1
         },
         "A\u034fr\u034fc\u034fh\u034fo\u034fs\u034f": {
             "tags": [
