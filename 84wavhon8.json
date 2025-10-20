@@ -192,12 +192,11 @@
 		{
 			"tags": ["isDonator"],
 			"supporter" : 1
-		},
-		
+		},		
 		
 		"tiny_fiend": 
 		{
-			"isBan" : "true"
+			"tags" : ["isBan"]
 		},
 		
 		"Xytabich": { "contributor" : 3 },
