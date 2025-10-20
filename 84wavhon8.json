@@ -200,7 +200,7 @@
 		{
 			"contributor" : 3,
 			"displayName" : "Tiny",
-			"tags": ["isLib", "isDonator", "isSpecial"],
+			"tags": ["isLib", "isDonator", "isSpecial"]
 		},
 		
 		"Xytabich": { "contributor" : 3 },
