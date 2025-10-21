@@ -1,16 +1,16 @@
 {
     "settings": {
         "discordInvite": "3vYFx4q",
+        "userlessName": "$NA$",
         "plaqueLibraryColumns": 2,
         "plaqueDonatorsColumns": 2,
         "plaqueContributorColums": 2,
         "plaqueSupporterColumns": 2,
-        "tieredContributors": false,
-        "tieredSupporters": true,
         "slidesAmount": 37,
         "eventsSpecial": 0,
         "eventsWeekly": 3,
-        "userlessName": "$NA$",
+        "tieredContributors": false,
+        "tieredSupporters": true,
         "tiersSupport": [
             "Alms Giver",
             "VR supporter",
@@ -28,19 +28,19 @@
         "weekly": [
             {
                 "date": "Saturdays",
-                "time": "23:00 CET\n5:00PM EST",
+                "time": "23:00 CET5:00PM EST",
                 "title": "Gathering for practitioners",
                 "description": "Discuss your past week with the VRM community, in terms of personal development, spiritual study/practice, and share relevant resources."
             },
             {
                 "date": "Wednesdays",
-                "time": "22:00 CET\n4:00PM EST",
+                "time": "22:00 CET4:00PM EST",
                 "title": "Community hangout",
                 "description": "A casual hangout witn no set topic. Bring your own or come to say hello!"
             },
             {
                 "date": "Mondays",
-                "time": "20:00 CET\n2:00PM EST",
+                "time": "20:00 CET2:00PM EST",
                 "title": "'Mindfulness of Breathing' Group Meditation",
                 "description": "Buddhist 'Mindfulness of Breathing' meditation in group setting. Practice and discuss together, or learn from an instructor!"
             }
@@ -48,19 +48,19 @@
         "special": [
             {
                 "date": "Sun. Mar 10th",
-                "time": "21:00 CET\n3:00PM EST",
+                "time": "21:00 CET3:00PM EST",
                 "title": "Knowledge and Discernment in Spirituality",
                 "description": "Join Huparxes for a dry, dusty afternoon as we speak about some of the problems involved in examining information, and study some techniques that can help sincere seekers on their spiritual journeys."
             },
             {
                 "date": "Sun. Jan 14th",
-                "time": "21:00 CET\n3:00PM EST",
+                "time": "21:00 CET3:00PM EST",
                 "title": "Agrippa's Third Book of Occult Philosophy, condensed",
                 "description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
             },
             {
                 "date": "Sun. Jan 14th",
-                "time": "21:00 CET\n3:00PM EST",
+                "time": "21:00 CET3:00PM EST",
                 "title": "Agrippa's Third Book of Occult Philosophy, condensed",
                 "description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
             }
@@ -70,8 +70,8 @@
         "TarotReaderFrog": {
             "tags": [
                 "isFounder",
-                "isLib",
-                "isSpecial"
+                "isSpecial",
+                "isLib"
             ]
         },
         "_alias": {
@@ -87,12 +87,11 @@
             ]
         },
         "Rianolakas": {
+            "displayName": "Riana",
             "tags": [
-                "isMod",
                 "isLib",
                 "isDonator"
-            ],
-            "displayName": "Riana"
+            ]
         },
         "Savage Cabbage 33a7": {
             "tags": [
@@ -105,12 +104,67 @@
             ]
         },
         "GameArcane 824f": {
+            "displayName": "XT0 Gamearcane",
             "tags": [
                 "isMod"
-            ],
-            "displayName": "XT0 Gamearcane"
+            ]
         },
-        "Fídi Sofós ": {
+        "Snowykins": {
+            "tags": [
+                "isLib"
+            ]
+        },
+        "$NA$001": {
+            "displayName": "Anonymous Kabbalist ",
+            "tags": [
+                "isLib"
+            ]
+        },
+        "$NA$002": {
+            "displayName": "Esoterick",
+            "tags": [
+                "isLib"
+            ]
+        },
+        "$NA$003": {
+            "displayName": "Freshubik",
+            "tags": [
+                "isLib"
+            ]
+        },
+        "$NA$004": {
+            "displayName": "NZICD",
+            "tags": [
+                "isLib"
+            ]
+        },
+        "KOD6677": {
+            "tags": [
+                "isBooster"
+            ]
+        },
+        "Nahsler": {
+            "tags": [
+                "isBooster"
+            ]
+        },
+        "Friendly_Nick": {
+            "tags": [
+                "isBooster"
+            ]
+        },
+        "Arranun": {
+            "tags": [
+                "isBooster"
+            ]
+        },
+        "Schizodynamic": {
+            "tags": [
+                "isBooster",
+                "isDonator"
+            ]
+        },
+        "F\u00eddi Sof\u00f3s": {
             "contributor": 2
         },
         "Ahiram": {
@@ -118,6 +172,99 @@
                 "isHost"
             ],
             "contributor": 2
+        },
+        "Yabestpal Joe": {
+            "tags": [
+                "isHost",
+                "isDonator"
+            ],
+            "contributor": 2,
+            "supporter": 2
+        },
+        "Gantzu": {
+            "tags": [
+                "isHost",
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3,
+            "supporter": 2
+        },
+        "TOTO-chan": {
+            "tags": [
+                "isBooster",
+                "isDonator"
+            ],
+            "contributor": 1,
+            "supporter": 1
+        },
+        "tiny_fiend": {
+            "displayName": "Tiny",
+            "tags": [
+                "isSpecial",
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3
+        },
+        "Xytabich": {
+            "contributor": 3
+        },
+        "Frater Sofus": {
+            "contributor": 2
+        },
+        "IngurdizTheThird 20ae": {
+            "tags": [
+                "isLib",
+                "isDonator"
+            ],
+            "contributor": 3
+        },
+        "niccolaggi": {
+            "displayName": "Santtu Heikkinen",
+            "contributor": 3
+        },
+        "AmateurMagus": {
+            "displayName": "Amateur Magus",
+            "contributor": 2
+        },
+        "BigAfrica f10b": {
+            "displayName": "Ngolo Coyote",
+            "contributor": 1
+        },
+        "Entity\u2044\u2044\u30a8\u30f3\u30c6\u30a3\u30c6\u30a3": {
+            "displayName": "Entity",
+            "contributor": 2
+        },
+        "~SLEEP~": {
+            "displayName": "Sleep on Sunday",
+            "contributor": 2
+        },
+        "Gene": {
+            "displayName": "Gene Hart",
+            "contributor": 1
+        },
+        "Heiliel Prince": {
+            "displayName": "Sieng",
+            "contributor": 1
+        },
+        "Bubbleof": {
+            "displayName": "Alley Wurds",
+            "contributor": 3
+        },
+        "terrycosmo": {
+            "displayName": "Alan",
+            "contributor": 3
+        },
+        "$NA$000": {
+            "displayName": "Ain",
+            "contributor": 1
+        },
+        "Equanimity_": {
+            "tags": [
+                "isLib"
+            ],
+            "contributor": 3
         },
         "Azule_Aleaus": {
             "tags": [
@@ -144,14 +291,6 @@
             ],
             "supporter": 4
         },
-        "Yabestpal Joe": {
-            "tags": [
-                "isHost",
-                "isDonator"
-            ],
-            "supporter": 2,
-            "contributor": 2
-        },
         "Feronzie": {
             "tags": [
                 "isDonator"
@@ -170,145 +309,11 @@
             ],
             "supporter": 2
         },
-        "Gantzu": {
-            "tags": [
-                "isDonator",
-                "isHost",
-                "isLib"
-            ],
-            "contributor": 3,
-            "supporter": 2
-        },
-        "TOTO-chan": {
-            "tags": [
-                "isBooster",
-                "isDonator"
-            ],
-            "contributor": 1,
-            "supporter": 1
-        },
         "Krzeszny": {
             "tags": [
                 "isDonator"
             ],
             "supporter": 1
-        },
-        "tiny_fiend": {
-            "contributor": 3,
-            "displayName": "Tiny",
-            "tags": [
-                "isLib",
-                "isDonator",
-                "isSpecial"
-            ]
-        },
-        "Xytabich": {
-            "contributor": 3
-        },
-        "Frater Sofus": {
-            "contributor": 2
-        },
-        "IngurdizTheThird 20ae": {
-            "tags": [
-                "isLib",
-                "isDonator"
-            ],
-            "contributor": 3
-        },
-        "niccolaggi": {
-            "contributor": 3,
-            "displayName": "Santtu Heikkinen"
-        },
-        "AmateurMagus": {
-            "contributor": 2,
-            "displayName": "Amateur Magus"
-        },
-        "BigAfrica f10b": {
-            "contributor": 1,
-            "displayName": "Ngolo Coyote"
-        },
-        "Entity⁄⁄エンティティ": {
-            "contributor": 2,
-            "displayName": "Entity"
-        },
-        "~SLEEP~": {
-            "contributor": 2,
-            "displayName": "Sleep on Sunday"
-        },
-        "Gene": {
-            "contributor": 1,
-            "displayName": "Gene Hart"
-        },
-        "Heiliel Prince": {
-            "contributor": 1,
-            "displayName": "Sieng"
-        },
-        "Bubbleof": {
-            "contributor": 3,
-            "displayName": "Alley Wurds"
-        },
-        "terrycosmo": {
-            "contributor": 3,
-            "displayName": "Alan"
-        },
-        "$NA$000": {
-            "contributor": 1,
-            "displayName": "Ain"
-        },
-        "Equanimity_": {
-            "tags": [
-                "isLib"
-            ],
-            "contributor": 3
-        },
-        "Snowykins": {
-            "tags": [
-                "isLib"
-            ]
-        },
-        "$NA$001": {
-            "tags": [
-                "isLib"
-            ],
-            "displayName": "Anonymous Kabbalist "
-        },
-        "$NA$002": {
-            "tags": [
-                "isLib"
-            ],
-            "displayName": "Esoterick"
-        },
-        "$NA$003": {
-            "tags": [
-                "isLib"
-            ],
-            "displayName": "Freshubik"
-        },
-        "$NA$004": {
-            "tags": [
-                "isLib"
-            ],
-            "displayName": "NZICD"
-        },
-        "KOD6677": {
-            "tags": [
-                "isBooster"
-            ]
-        },
-        "Nahsler": {
-            "tags": [
-                "isBooster"
-            ]
-        },
-        "Friendly_Nick": {
-            "tags": [
-                "isBooster"
-            ]
-        },
-        "Arranun": {
-            "tags": [
-                "isBooster"
-            ]
         },
         "Gaothaire": {
             "tags": [
@@ -343,12 +348,6 @@
         "Celestial Vamp": {
             "tags": [
                 "isDonator"
-            ]
-        },
-        "Schizodynamic": {
-            "tags": [
-                "isDonator",
-                "isBooster"
             ]
         },
         "Panag": {
@@ -436,7 +435,7 @@
                 "isDonator"
             ]
         },
-        "A͏r͏c͏h͏o͏s͏": {
+        "A\u034fr\u034fc\u034fh\u034fo\u034fs\u034f": {
             "tags": [
                 "isBan"
             ]
@@ -581,7 +580,7 @@
                 "isBan"
             ]
         },
-        "The_Archivist_R＋C c74e": {
+        "The_Archivist_R\uff0bC c74e": {
             "tags": [
                 "isBan"
             ]
@@ -656,12 +655,12 @@
                 "isBan"
             ]
         },
-        "«Draco-Borg»": {
+        "\u00abDraco-Borg\u00bb": {
             "tags": [
                 "isBan"
             ]
         },
-        "․˸˸ BG - MaNiAC ˸˸․": {
+        "\u2024\u02f8\u02f8 BG - MaNiAC \u02f8\u02f8\u2024": {
             "tags": [
                 "isBan"
             ]
