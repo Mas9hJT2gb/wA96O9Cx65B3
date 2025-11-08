@@ -30,12 +30,6 @@
             "BodyText": "B",
             "PictureAmount": 1,
             "DelayTime": 5
-        },
-        "poster_gallery_01": {
-            "TitleText": "Gallery Showcase",
-            "BodyText": "This is a slideshow, cycling through 3 images every 4 seconds.",
-            "PictureAmount": 3,
-            "DelayTime": 4
         }
     },
     "calendar": {
