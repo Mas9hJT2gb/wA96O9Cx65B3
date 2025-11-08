@@ -36,12 +36,6 @@
             "BodyText": "This is a slideshow, cycling through 3 images every 4 seconds.",
             "PictureAmount": 3,
             "DelayTime": 4
-        },
-        "poster_exit_01": {
-            "TitleText": "Thanks for Visiting",
-            "BodyText": "This poster shows two images in a slideshow.",
-            "PictureAmount": 2,
-            "DelayTime": 10
         }
     },
     "calendar": {
