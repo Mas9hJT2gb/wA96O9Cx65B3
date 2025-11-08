@@ -30,6 +30,12 @@
             "BodyText": "B",
             "PictureAmount": 1,
             "DelayTime": 5
+        },
+        "poster_test_1": {
+            "TitleText": "yeah",
+            "BodyText": "boy",
+            "PictureAmount": 3,
+            "DelayTime": 5
         }
     },
     "calendar": {
