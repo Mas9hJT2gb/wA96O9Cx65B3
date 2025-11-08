@@ -24,6 +24,26 @@
             "Tier 3"
         ]
     },
+    "PostersData": {
+        "poster_lobby_01": {
+            "TitleText": "Welcome to the Lobby!",
+            "BodyText": "This is a static poster. It only shows one image.",
+            "PictureAmount": 1,
+           "DelayTime": 5
+        },
+        "poster_gallery_01": {
+            "TitleText": "Gallery Showcase",
+            "BodyText": "This is a slideshow, cycling through 3 images every 4 seconds.",
+            "PictureAmount": 3,
+            "DelayTime": 4
+        },
+        "poster_exit_01": {
+            "TitleText": "Thanks for Visiting",
+            "BodyText": "This poster shows two images in a slideshow.",
+            "PictureAmount": 2,
+            "DelayTime": 10
+        }
+    },
     "calendar": {
         "weekly": [
             {
