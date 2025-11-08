@@ -28,7 +28,7 @@
         "poster_test": {
             "TitleText": "A",
             "BodyText": "B",
-            "PictureAmount": 1,
+            "PictureAmount": 0,
             "DelayTime": 5
         },
         "poster_test_1": {
