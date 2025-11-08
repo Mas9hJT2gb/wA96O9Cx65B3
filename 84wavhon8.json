@@ -25,11 +25,11 @@
         ]
     },
     "PostersData": {
-        "poster_lobby_01": {
-            "TitleText": "Welcome to the Lobby!",
-            "BodyText": "This is a static poster. It only shows one image.",
+        "poster_test": {
+            "TitleText": "A",
+            "BodyText": "B",
             "PictureAmount": 1,
-           "DelayTime": 5
+            "DelayTime": 5
         },
         "poster_gallery_01": {
             "TitleText": "Gallery Showcase",
