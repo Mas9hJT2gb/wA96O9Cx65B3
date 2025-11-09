@@ -64,7 +64,7 @@
         "shop_right_02": {
             "TitleText": "Advertise at VRM",
             "BodyText": "Your product here? Write to:\r\n\r\ncontact@vrmystery.school\r\n\r\nYour support makes this project possible. Thank you!\r\n\r\n\r\n\r\n\r\n",
-            "PictureAmount": 1,
+            "PictureAmount": 0,
             "DelayTime": 5
         }
     },
