@@ -111,6 +111,13 @@
         ]
     },
     "users": {
+        "IdiotGoneWild": {
+            "displayName": "Aspen Clark",
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
         "YAKUB 7c8d": {
             "tags": [
                 "isBan"
