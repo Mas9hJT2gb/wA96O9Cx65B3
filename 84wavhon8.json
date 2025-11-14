@@ -111,6 +111,12 @@
         ]
     },
     "users": {
+        "MargorpeR": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 5
+        },
         "IdiotGoneWild": {
             "displayName": "Aspen Clark",
             "tags": [
