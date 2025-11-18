@@ -111,6 +111,11 @@
         ]
     },
     "users": {
+        "B_Ligirent": {
+            "tags": [
+                "isHost"
+            ]
+        },
         "MargorpeR": {
             "tags": [
                 "isDonator"
