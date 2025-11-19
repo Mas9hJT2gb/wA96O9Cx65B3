@@ -116,7 +116,8 @@
         },
         "B_ligerent": {
             "tags": [
-                "isHost"
+                "isHost",
+                "isVol"
             ]
         },
         "MargorpeR": {
