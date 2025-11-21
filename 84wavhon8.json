@@ -69,44 +69,13 @@
         }
     },
     "calendar": {
-        "weekly": [
-            {
-                "date": "Saturdays",
-                "time": "23:00 CET5:00PM EST",
-                "title": "Gathering for practitioners",
-                "description": "Discuss your past week with the VRM community, in terms of personal development, spiritual study/practice, and share relevant resources."
-            },
-            {
-                "date": "Wednesdays",
-                "time": "22:00 CET4:00PM EST",
-                "title": "Community hangout",
-                "description": "A casual hangout witn no set topic. Bring your own or come to say hello!"
-            },
-            {
-                "date": "Mondays",
-                "time": "20:00 CET2:00PM EST",
-                "title": "'Mindfulness of Breathing' Group Meditation",
-                "description": "Buddhist 'Mindfulness of Breathing' meditation in group setting. Practice and discuss together, or learn from an instructor!"
-            }
-        ],
+        "weekly": [],
         "special": [
             {
-                "date": "Sun. Mar 10th",
-                "time": "21:00 CET3:00PM EST",
-                "title": "Knowledge and Discernment in Spirituality",
-                "description": "Join Huparxes for a dry, dusty afternoon as we speak about some of the problems involved in examining information, and study some techniques that can help sincere seekers on their spiritual journeys."
-            },
-            {
-                "date": "Sun. Jan 14th",
-                "time": "21:00 CET3:00PM EST",
-                "title": "Agrippa's Third Book of Occult Philosophy, condensed",
-                "description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
-            },
-            {
-                "date": "Sun. Jan 14th",
-                "time": "21:00 CET3:00PM EST",
-                "title": "Agrippa's Third Book of Occult Philosophy, condensed",
-                "description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
+                "date": "Thu. Jan 1st",
+                "time": "00:00 CET6:00PM EST",
+                "title": "Test event please ignorezzzz",
+                "description": "Test event please ignore<br>"
             }
         ]
     },
