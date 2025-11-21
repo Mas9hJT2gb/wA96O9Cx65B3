@@ -7,7 +7,7 @@
         "plaqueContributorColums": 2,
         "plaqueSupporterColumns": 2,
         "slidesAmount": 37,
-        "eventsSpecial": 0,
+        "eventsSpecial": 1,
         "eventsWeekly": 3,
         "tieredContributors": false,
         "tieredSupporters": true,
@@ -89,7 +89,14 @@
                 "description": "A weekly excursion, visiting worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
             }
         ],
-        "special": []
+        "special": [
+            {
+                "date": "Sun. Nov 30th",
+                "time": "18:00 CET\n12:00PM EST",
+                "title": "Abiding with the Breath, with Santtu Heikkinen",
+                "description": "A guided buddhist meditation session, with discussion afterwards. Hosted by Meditation & Dharma teacher Santtu Heikkinen."
+            }
+        ]
     },
     "users": {
         "SwineVtuber": {
