@@ -72,19 +72,19 @@
         "weekly": [            
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             },
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             },
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             }
@@ -92,19 +92,19 @@
         "special": [
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             },
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             },
             {
                 "date": "Thu. Jan 1st",
-                "time": "00:00 CET6:00PM EST",
+                "time": "00:00 CET\n6:00PM EST",
                 "title": "Test event please ignorezzzz",
                 "description": "Test event please ignore"
             }
