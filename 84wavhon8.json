@@ -8,7 +8,7 @@
         "plaqueSupporterColumns": 2,
         "slidesAmount": 37,
         "eventsSpecial": 1,
-        "eventsWeekly": 2,
+        "eventsWeekly": 3,
         "tieredContributors": false,
         "tieredSupporters": true,
         "tiersSupport": [
@@ -81,6 +81,12 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
+            },
+            {
+                "date": "Fridays",
+                "time": "02:50 CET\n8:50PM EST",
+                "title": "VR Excursion",
+                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
             }
         ],
         "special": [
