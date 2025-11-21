@@ -7,7 +7,7 @@
         "plaqueContributorColums": 2,
         "plaqueSupporterColumns": 2,
         "slidesAmount": 37,
-        "eventsSpecial": 1,
+        "eventsSpecial": 0,
         "eventsWeekly": 0,
         "tieredContributors": false,
         "tieredSupporters": true,
@@ -70,14 +70,7 @@
     },
     "calendar": {
         "weekly": [],
-        "special": [
-            {
-                "date": "Thu. Jan 1st",
-                "time": "00:00 CET\n6:00PM EST",
-                "title": "Test event please ignorezzzz",
-                "description": "Test event please ignore<br>"
-            }
-        ]
+        "special": []
     },
     "users": {
         "SwineVtuber": {
