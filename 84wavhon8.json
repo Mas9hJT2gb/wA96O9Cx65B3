@@ -71,12 +71,6 @@
     "calendar": {
         "weekly": [
             {
-                "date": "Saturdays",
-                "time": "22:50 CET\n4:50PM EST",
-                "title": "Practitioners Meeting",
-                "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
-            },
-            {
                 "date": "Wednesdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
@@ -87,6 +81,12 @@
                 "time": "02:50 CET\n8:50PM EST",
                 "title": "VR Excursion",
                 "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
+            },
+            {
+                "date": "Saturdays",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Practitioners Meeting",
+                "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
             }
         ],
         "special": [
