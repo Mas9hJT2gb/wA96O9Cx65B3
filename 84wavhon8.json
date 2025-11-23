@@ -71,18 +71,21 @@
     "calendar": {
         "weekly": [
             {
+                "id": 4,
                 "date": "Wednesdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
             },
             {
+                "id": 8,
                 "date": "Fridays",
                 "time": "02:50 CET\n8:50PM EST",
                 "title": "VR Excursion",
                 "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
             },
             {
+                "id": 10,
                 "date": "Saturdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
@@ -91,6 +94,7 @@
         ],
         "special": [
             {
+                "id": 9,
                 "date": "Sun. Nov 30th",
                 "time": "18:00 CET\n12:00PM EST",
                 "title": "Abiding with the Breath with Santtu Heikkinen",
