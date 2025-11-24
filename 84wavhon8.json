@@ -7,7 +7,7 @@
         "plaqueContributorColums": 2,
         "plaqueSupporterColumns": 2,
         "slidesAmount": 37,
-        "eventsSpecial": 1,
+        "eventsSpecial": 3,
         "eventsWeekly": 3,
         "tieredContributors": false,
         "tieredSupporters": true,
@@ -99,6 +99,20 @@
                 "time": "18:00 CET\n12:00PM EST",
                 "title": "Abiding with the Breath with Santtu Heikkinen",
                 "description": "A guided Buddhist meditation session, with discussion afterwards. Hosted by Meditation & Dharma teacher Santtu Heikkinen."
+            },
+            {
+                "id": 13,
+                "date": "Fri. Dec 5th",
+                "time": "02:50 CET\n8:50PM EST",
+                "title": "VR Excursion",
+                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
+            },
+            {
+                "id": 14,
+                "date": "Fri. Dec 12th",
+                "time": "02:50 CET\n8:50PM EST",
+                "title": "VR Excursion",
+                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
             }
         ]
     },
