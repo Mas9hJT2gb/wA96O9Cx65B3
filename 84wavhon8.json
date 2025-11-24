@@ -94,6 +94,13 @@
         ],
         "special": [
             {
+                "id": 17,
+                "date": "Wed. Nov 26th",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Casual Meeting",
+                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
+            },
+            {
                 "id": 9,
                 "date": "Sun. Nov 30th",
                 "time": "18:00 CET\n12:00PM EST",
@@ -101,18 +108,11 @@
                 "description": "A guided Buddhist meditation session, with discussion afterwards. Hosted by Meditation & Dharma teacher Santtu Heikkinen."
             },
             {
-                "id": 13,
-                "date": "Fri. Dec 5th",
-                "time": "02:50 CET\n8:50PM EST",
-                "title": "VR Excursion",
-                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
-            },
-            {
-                "id": 14,
-                "date": "Fri. Dec 12th",
-                "time": "02:50 CET\n8:50PM EST",
-                "title": "VR Excursion",
-                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
+                "id": 18,
+                "date": "Wed. Dec 3rd",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Casual Meeting",
+                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
             }
         ]
     },
