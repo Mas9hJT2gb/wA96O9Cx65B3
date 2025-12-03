@@ -71,13 +71,6 @@
     "calendar": {
         "weekly": [
             {
-                "id": 4,
-                "date": "Wednesdays",
-                "time": "22:50 CET\n4:50PM EST",
-                "title": "Casual Meeting",
-                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
-            },
-            {
                 "id": 8,
                 "date": "Fridays",
                 "time": "02:50 CET\n8:50PM EST",
@@ -90,16 +83,16 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
                 "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
-            }
-        ],
-        "special": [
+            },
             {
-                "id": 18,
-                "date": "Wed. Dec 3rd",
+                "id": 4,
+                "date": "Wednesdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
-            },
+            }
+        ],
+        "special": [
             {
                 "id": 13,
                 "date": "Fri. Dec 5th",
@@ -113,6 +106,13 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
                 "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
+            },
+            {
+                "id": 24,
+                "date": "Sun. Dec 7th",
+                "time": "19:00 CET\n1:00PM EST",
+                "title": "\"Abiding with the Breath\" Guided Meditation - Sant",
+                "description": "Buddhist guided meditation focusing on experience and breath, with Dharma & Meditation teacher Santtu Heikkinen"
             }
         ]
     },
