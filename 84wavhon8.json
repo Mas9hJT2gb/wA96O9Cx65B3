@@ -71,13 +71,6 @@
     "calendar": {
         "weekly": [
             {
-                "id": 8,
-                "date": "Fridays",
-                "time": "02:50 CET\n8:50PM EST",
-                "title": "VR Excursion",
-                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
-            },
-            {
                 "id": 10,
                 "date": "Saturdays",
                 "time": "22:50 CET\n4:50PM EST",
@@ -90,16 +83,16 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
-            }
-        ],
-        "special": [
+            },
             {
-                "id": 13,
-                "date": "Fri. Dec 5th",
+                "id": 8,
+                "date": "Fridays",
                 "time": "02:50 CET\n8:50PM EST",
                 "title": "VR Excursion",
                 "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
-            },
+            }
+        ],
+        "special": [
             {
                 "id": 21,
                 "date": "Sat. Dec 6th",
@@ -113,6 +106,13 @@
                 "time": "19:00 CET\n1:00PM EST",
                 "title": "\"Abiding with the Breath\" Guided Meditation - Sant",
                 "description": "Buddhist guided meditation focusing on experience and breath, with Dharma & Meditation teacher Santtu Heikkinen"
+            },
+            {
+                "id": 19,
+                "date": "Wed. Dec 10th",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Casual Meeting",
+                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
             }
         ]
     },
