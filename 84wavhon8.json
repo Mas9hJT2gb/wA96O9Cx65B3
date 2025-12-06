@@ -71,13 +71,6 @@
     "calendar": {
         "weekly": [
             {
-                "id": 10,
-                "date": "Saturdays",
-                "time": "22:50 CET\n4:50PM EST",
-                "title": "Practitioners Meeting",
-                "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
-            },
-            {
                 "id": 4,
                 "date": "Wednesdays",
                 "time": "22:50 CET\n4:50PM EST",
@@ -90,16 +83,16 @@
                 "time": "02:50 CET\n8:50PM EST",
                 "title": "VR Excursion",
                 "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
-            }
-        ],
-        "special": [
+            },
             {
-                "id": 21,
-                "date": "Sat. Dec 6th",
+                "id": 10,
+                "date": "Saturdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
                 "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
-            },
+            }
+        ],
+        "special": [
             {
                 "id": 24,
                 "date": "Sun. Dec 7th",
@@ -113,6 +106,13 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
+            },
+            {
+                "id": 14,
+                "date": "Fri. Dec 12th",
+                "time": "02:50 CET\n8:50PM EST",
+                "title": "VR Excursion",
+                "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
             }
         ]
     },
