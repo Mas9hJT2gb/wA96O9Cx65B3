@@ -117,6 +117,12 @@
         ]
     },
     "users": {
+        "duxy\u00b7": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 4
+        },
         "NolanM": {
             "tags": [
                 "isBan"
