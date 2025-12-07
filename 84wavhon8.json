@@ -94,13 +94,6 @@
         ],
         "special": [
             {
-                "id": 24,
-                "date": "Sun. Dec 7th",
-                "time": "19:00 CET\n1:00PM EST",
-                "title": "\"Abiding with the Breath\" Guided Meditation - Sant",
-                "description": "Buddhist guided meditation focusing on experience and breath, with Dharma & Meditation teacher Santtu Heikkinen"
-            },
-            {
                 "id": 19,
                 "date": "Wed. Dec 10th",
                 "time": "22:50 CET\n4:50PM EST",
@@ -113,6 +106,13 @@
                 "time": "02:50 CET\n8:50PM EST",
                 "title": "VR Excursion",
                 "description": "A weekly excursion to worlds in VRChat relevant to VRM subjects. You're encouraged to do a little research beforehand!"
+            },
+            {
+                "id": 22,
+                "date": "Sat. Dec 13th",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Practitioners Meeting",
+                "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
             }
         ]
     },
