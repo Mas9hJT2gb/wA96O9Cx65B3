@@ -117,6 +117,12 @@
         ]
     },
     "users": {
+        "realityshifting": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
         "duxy\u00b7": {
             "tags": [
                 "isDonator"
