@@ -71,13 +71,6 @@
     "calendar": {
         "weekly": [
             {
-                "id": 4,
-                "date": "Wednesdays",
-                "time": "22:50 CET\n4:50PM EST",
-                "title": "Casual Meeting",
-                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
-            },
-            {
                 "id": 8,
                 "date": "Fridays",
                 "time": "02:50 CET\n8:50PM EST",
@@ -90,16 +83,16 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
                 "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
-            }
-        ],
-        "special": [
+            },
             {
-                "id": 19,
-                "date": "Wed. Dec 10th",
+                "id": 4,
+                "date": "Wednesdays",
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Casual Meeting",
                 "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
-            },
+            }
+        ],
+        "special": [
             {
                 "id": 14,
                 "date": "Fri. Dec 12th",
@@ -113,6 +106,13 @@
                 "time": "22:50 CET\n4:50PM EST",
                 "title": "Practitioners Meeting",
                 "description": "Weekly discussion for practitioners about the ups and downs of practice. Ask questions, share resources and raise topics.  "
+            },
+            {
+                "id": 20,
+                "date": "Wed. Dec 17th",
+                "time": "22:50 CET\n4:50PM EST",
+                "title": "Casual Meeting",
+                "description": "Weekly casual get together. Meet community members and discuss interesting stuff with them in a relaxed and casual setting."
             }
         ]
     },
