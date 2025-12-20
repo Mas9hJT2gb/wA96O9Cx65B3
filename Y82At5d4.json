@@ -1,0 +1,177 @@
+{
+	"Settings": {
+		"slidesAmount": 35,
+		"weeklyEventAmount": 3,
+		"specialEventAmount": 1
+	},
+	"Plaques": {
+		"Donators": {
+			"leftColumn": "Gaothaire\nBubblegumzeta\nRianolakas\nYabestpal Joe\nMalka\nZsolt\nPiinkpoe\nJojo\nCelestial Vamp\nSchizodynamic\nPanag\nXalgorithm\nSemretta\nFyzika\nNancemelecio\nToto Chan\nPsychoSorcerer\nPraemonChariot",
+			"rightColumn": "Legion of Frost\nArtemisapollo\nSamothes\nIngurdiz\nEnna\nMamamad\nNotSatanGuys\nScienceee\nBob Cat\nKaran\nCoffeeeVR\nMetroSaint\nFriendly Nick\nNayir\nArlo\nDoctor Jables\nTechnomancer113\nrealityshifting"
+		},
+		"Supporters": {
+			"leftColumn": "Yabestpal Joe\nMetroSaint\nNayir\nFyzika\nDoctor Jables\nKrzeszny\nGantzu\nAphoticAbility\nFeronzie\nToto-Chan\nSaint Null\nMaineDruid\nAzule_Aleaus\nMargorpeR\nAspen Clarkn\nSpareParts23\nduxy·\nrealityshifting"
+		},
+		"Contributors": {
+			"leftColumn": "Tiny\nXytabich\nSieng\n_alias\nAlley Wurds\nGene Hart\nEquanimity\nGantzu\nAhiram\nFídi Sofós\nToto Chan",
+			"rightColumn": "Ingurdiz\nAin\nRianolakas\nEntity\nXT0 Gamearcane\nSleep on Sunday\nSanttu Heikkinen\nNgolo Coyote\nAmateur Magus\nAlan\nFrater Zigmund"
+		},
+		"Library": {
+			"leftColumn": "Freshubik\nEsoterick\nNZICD\nAnonymous Kabbalist\nGantzu\nEquanimity\nKitKat",
+			"rightColumn": "TarotReaderFrog\nIngurdiz\n_alias\nSnowykins\nRianolakas\nNgolo Coyote"
+		}
+	},
+	"Calendar": {
+		"Weekly": [
+			{
+				"date": "Saturdays",
+				"time": "23:00 CET\n5:00PM EST",
+				"title": "Gathering for practitioners",
+				"description": "Discuss your past week with the VRM community, in terms of personal development, spiritual study/practice, and share relevant resources."
+			},
+			{
+				"date": "Wednesdays",
+				"time": "22:00 CET\n4:00PM EST",
+				"title": "Community hangout",
+				"description": "A casual hangout witn no set topic. Bring your own or come to say hello!"
+			},
+			{
+				"date": "Sundays",
+				"time": "19:00 CET\n2:00PM EST",
+				"title": "'Mindfulness of Breathing' Group Meditation",
+				"description": "Buddhist 'Mindfulness of Breathing' meditation in group setting. Practice and discuss together, or learn from an instructor!"
+			},
+			{
+				"date": "Thursdays",
+				"time": "A: 19:00 CET\nB: 10:00PM EST",
+				"title": "Hermetic Qabalah Study Groups",
+				"description": "Discuss Hermetic Qabalah literature with the study group, under guidance of a host."
+			}
+		],
+		"Special": [
+			{
+				"date": "Sun. Jan 26th",
+				"time": "21:00 CET\n3:00PM EST",
+				"title": "Knowledge and Discernment in Spirituality",
+				"description": "An exploration into the enigmatic Enochian language, and the important yet unexplored Liber Logaeth."
+			},
+			{
+				"date": "Sun. Jan 14th",
+				"time": "21:00 CET\n3:00PM EST",
+				"title": "Agrippa's Third Book of Occult Philosophy, condensed",
+				"description": "Part 3/3 in this series where occultist Dave the Amateur Magus breaks down Agrippa's foundational works on occult philosophy."
+			}
+		]
+	},
+	"Filters": {
+		"ktccgy7IvE": [
+			{"5JWDcMzqmK": "TarotReaderFrog"},
+			{"5JWDcMzqmK": "Xytabich"},
+			{"5JWDcMzqmK": "_alias"},
+			{"5JWDcMzqmK": "Equanimity_"},
+			{"5JWDcMzqmK": "Gantzu"},
+
+			{"5JWDcMzqmK": "GameArcane 824f"},
+			{"5JWDcMzqmK": "Savage Cabbage 33a7"},
+
+			{"5JWDcMzqmK": "Adaktyyli 6f66"},
+			{"5JWDcMzqmK": "Gene"},
+			{"5JWDcMzqmK": "Heiliel Prince"},
+			{"5JWDcMzqmK": "IngurdizTheThird 20ae"},
+			{"5JWDcMzqmK": "~SLEEP~"},
+			{"5JWDcMzqmK": "Ahiram"},
+			{"5JWDcMzqmK": "tiny_fiend"},
+           	{"5JWDcMzqmK": "Frater Sofus"},
+
+			{"5JWDcMzqmK": "Accelus"},
+			{"5JWDcMzqmK": "AphoticAbility"},
+			{"5JWDcMzqmK": "Feronzie"},
+			{"5JWDcMzqmK": "Arranun"},
+			{"5JWDcMzqmK": "DoctorJables"},
+			{"5JWDcMzqmK": "Fyzika"},
+			{"5JWDcMzqmK": "Nayir"},
+			{"5JWDcMzqmK": "MetroSaint"},
+			{"5JWDcMzqmK": "Yabestpal Joe"},
+			{"5JWDcMzqmK": "MaineDruid"},
+			{"5JWDcMzqmK": "Azule_Aleaus"},
+			{"5JWDcMzqmK": "˗ˏˋΠολυύμνιαˎˊ˗"},
+			{"5JWDcMzqmK": "MargorpeR"},
+			{"5JWDcMzqmK": "SpareParts23"},
+			{"5JWDcMzqmK": "realityshifting"}
+		],
+		"EvI7ygcctk": [
+			{"5JWDcMzqmK": "D a t a"},
+			{"5JWDcMzqmK": "Hermitage"},
+			{"5JWDcMzqmK": "TheVerp"},
+			{"5JWDcMzqmK": "Pauwel 6f9f"},
+			{"5JWDcMzqmK": "Brahmael"},
+			{"5JWDcMzqmK": "Poemandres 8951"},
+			{"5JWDcMzqmK": "A͏r͏c͏h͏o͏s͏"},
+			{"5JWDcMzqmK": "Fleas"},
+			{"5JWDcMzqmK": "Fleas e31f"},
+			{"5JWDcMzqmK": "soweli_kelo"},
+			{"5JWDcMzqmK": "WolfOfAntimony"},
+			{"5JWDcMzqmK": "PureSpace"},
+			{"5JWDcMzqmK": "The Dog of Wisdom 260c"},
+			{"5JWDcMzqmK": "Deuce.Vamoose 9a63"},
+			{"5JWDcMzqmK": "Nyala"},
+			{"5JWDcMzqmK": "JoshuaVonNoctis 05cb"},
+			{"5JWDcMzqmK": "NotYurrrBabyx"},
+			{"5JWDcMzqmK": "NotYurrrBaby"},
+			{"5JWDcMzqmK": "ChiefInfinity"},
+			{"5JWDcMzqmK": "It's A Mystery"},
+			{"5JWDcMzqmK": "Dizerta"},
+			{"5JWDcMzqmK": "forkikus"},
+			{"5JWDcMzqmK": "forkikos"},
+			{"5JWDcMzqmK": "forkieus"},			
+			{"5JWDcMzqmK": "«Draco-Borg»"},
+			{"5JWDcMzqmK": "EsotericStudent"},
+			{"5JWDcMzqmK": "darkflame33"},
+			{"5JWDcMzqmK": "Holy Preacher 260c"},
+			{"5JWDcMzqmK": "EsotericStudent 5c7e"},
+			{"5JWDcMzqmK": "․˸˸ BG - MaNiAC ˸˸․"},
+			{"5JWDcMzqmK": "Tolskall"},
+			{"5JWDcMzqmK": "Ezekiel2and3"},
+			{"5JWDcMzqmK": "deathdog"},
+			{"5JWDcMzqmK": "stereo"},
+			{"5JWDcMzqmK": "FPL-Nagato2"},
+			{"5JWDcMzqmK": "mang0cake"},
+			{"5JWDcMzqmK": "plape"},
+			{"5JWDcMzqmK": "~Az_"},
+			{"5JWDcMzqmK": "Zeelu"},
+			{"5JWDcMzqmK": "Neon Regnum"},
+			{"5JWDcMzqmK": "The_Archivist_R＋C c74e"},
+			{"5JWDcMzqmK": "Rezna Qay"},
+			{"5JWDcMzqmK": "NightSeeker2277 6ab7"},
+			{"5JWDcMzqmK": "NightSeeker2277"},
+			{"5JWDcMzqmK": "~Cypher~"},
+			{"5JWDcMzqmK": "Refluence"},
+			{"5JWDcMzqmK": "fairy wings"},
+			{"5JWDcMzqmK": "ClemTheSchizo"},
+			{"5JWDcMzqmK": "noise 21e8"},
+			{"5JWDcMzqmK": "Gangstalked"},
+			{"5JWDcMzqmK": "Safer_"},
+			{"5JWDcMzqmK": "Lux Animae"},
+			{"5JWDcMzqmK": "akashic65 8a86"},
+			{"5JWDcMzqmK": "K4BOODLE"},
+			{"5JWDcMzqmK": "bigga 99e3"},
+			{"5JWDcMzqmK": "SleepyNeon"},
+			{"5JWDcMzqmK": "YAKUB 7c8d"},
+			{"5JWDcMzqmK": "MargorpeR"}
+                ],
+		"oa97e6rtvoba7": [
+			"TarotReaderFrog",
+			"Ahiram",
+			"_alias",
+			"Rianolakas",
+			"Gantzu",
+			"MetroSaint",
+			"Yabestpal Joe"
+		],
+		"p9a86sdfpn869": [
+			"TarotReaderFrog",
+			"_alias",
+			"MetroSaint"
+		]
+	}
+}
