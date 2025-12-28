@@ -5,7 +5,7 @@
         "plaqueLibraryColumns": 2,
         "plaqueDonatorsColumns": 3,
         "plaqueSupporterColumns": 2,
-        "slidesAmount": 0,
+        "slidesAmount": 1,
         "eventsSpecial": 1,
         "eventsWeekly": 3,
         "tieredContributors": false,
