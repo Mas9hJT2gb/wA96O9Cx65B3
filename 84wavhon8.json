@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "m0ss0": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "Air In": {
             "contributor": 1
         },
