@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "Poetic": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "b-i-t-r-\u00f8": {
             "tags": [
                 "isBan"
