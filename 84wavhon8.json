@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "DATDELTA1": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "Dragonfruet": {
             "tags": [
                 "isBan"
