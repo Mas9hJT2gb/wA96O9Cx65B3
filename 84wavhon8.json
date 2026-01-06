@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "Blackrobby": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "DATDELTA1": {
             "tags": [
                 "isBan"
