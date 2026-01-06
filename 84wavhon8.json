@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "zuxron": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "Blackrobby": {
             "tags": [
                 "isBan"
