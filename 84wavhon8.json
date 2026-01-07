@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "Light111": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "zuxron": {
             "tags": [
                 "isBan"
