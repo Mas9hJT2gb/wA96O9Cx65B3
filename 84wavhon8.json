@@ -103,6 +103,9 @@
         ]
     },
     "users": {
+        "-Zanri": {
+            "supporter": 2
+        },
         "Light111": {
             "tags": [
                 "isBan"
