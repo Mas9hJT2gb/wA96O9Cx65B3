@@ -103,6 +103,12 @@
         ]
     },
     "users": {
+        "Geniegurl": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
         "-Zanri": {
             "supporter": 2
         },
