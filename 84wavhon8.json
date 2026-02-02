@@ -104,6 +104,9 @@
     },
     "users": {
         "doomin.": {
+            "tags": [
+                "isDonator"
+            ],
             "supporter": 2
         },
         "aaliyahmattel142 3a39": {
