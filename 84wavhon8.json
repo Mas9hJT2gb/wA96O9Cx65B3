@@ -103,6 +103,21 @@
         ]
     },
     "users": {
+        "Thomas Newman": {
+            "tags": [
+                "isBan"
+            ]
+        },
+        "TheRealJDVance": {
+            "tags": [
+                "isBan"
+            ]
+        },
+        "VictorNewman": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "doomin.": {
             "tags": [
                 "isDonator"
