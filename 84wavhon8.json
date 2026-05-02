@@ -103,6 +103,11 @@
         ]
     },
     "users": {
+        "Foxy": {
+            "tags": [
+                "isBan"
+            ]
+        },
         "MaineDruid": {
             "tags": [
                 "isDonator"
