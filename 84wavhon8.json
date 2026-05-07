@@ -103,6 +103,13 @@
         ]
     },
     "users": {
+        "thegems": {
+            "displayName": "The Gemstones",
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
         "Foxy": {
             "tags": [
                 "isBan"
