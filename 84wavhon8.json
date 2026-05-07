@@ -103,6 +103,12 @@
         ]
     },
     "users": {
+        "Anat the Mage": {
+            "tags": [
+                "isDonator"
+            ],
+            "supporter": 2
+        },
         "thegems": {
             "displayName": "The Gemstones",
             "tags": [
